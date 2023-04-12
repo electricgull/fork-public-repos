@@ -1,0 +1,19 @@
+{
+  "name": "fork-public-repos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/electricgull/fork-public-repos.git"
+  },
+  "author": "Cameron Griffin",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/electricgull/fork-public-repos/issues"
+  },
+  "homepage": "https://github.com/electricgull/fork-public-repos#readme"
+}
